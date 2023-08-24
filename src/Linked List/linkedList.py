@@ -28,10 +28,21 @@ class LinkedList:
         node = Node(data, self.head)
         self.head = node
 
+    def insert_at_end(self, data):
+        if self.head is None:
+            self.head = Node(data, None)
+            return
 
+        itr = self.head
+
+        while itr.next:
+            itr = itr.next
+
+        itr.next = Node(data, None)
 
 if __name__ == "__main__":
     ll = LinkedList()
     ll.insert_at_begining(5)
     ll.insert_at_begining(8)
+    ll.insert_at_end(6)
     ll.printing()
