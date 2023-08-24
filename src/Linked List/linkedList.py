@@ -40,9 +40,25 @@ class LinkedList:
 
         itr.next = Node(data, None)
 
+    def insert_values(self, data_lists):
+        self.head = None
+        for data_list in data_lists:
+            self.insert_at_end(data_list)
+
+    def get_length(self):
+        count = 0
+        itr = self.head
+        while itr:
+            count += 1
+            itr = itr.next
+
+        return count
+
 if __name__ == "__main__":
     ll = LinkedList()
     ll.insert_at_begining(5)
     ll.insert_at_begining(8)
     ll.insert_at_end(6)
+    ll.insert_values(["a","b","c","d"])
+    print(f"Linked List Length: {ll.get_length()}" )
     ll.printing()
