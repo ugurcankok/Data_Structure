@@ -6,6 +6,8 @@ In this repository, you will find my works in ***src*** folder:
 
 * [Double Linked List](https://github.com/ugurcankok/Data_Structure/tree/master/src/Double%20Linked%20List)
 
+* [General Tree](https://github.com/ugurcankok/Data_Structure/tree/master/src/General%20Tree)
+
 * [Hash Table](https://github.com/ugurcankok/Data_Structure/tree/master/src/Hash%20Table)
 
 * [Linked List](https://github.com/ugurcankok/Data_Structure/tree/master/src/Linked%20List)
