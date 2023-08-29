@@ -4,6 +4,8 @@ You can look at my work on Data Structure in this repository.
 
 In this repository, you will find my works in ***src*** folder:
 
+* [Binary Tree](https://github.com/ugurcankok/Data_Structure/tree/master/src/Binary%20Tree)
+
 * [Double Linked List](https://github.com/ugurcankok/Data_Structure/tree/master/src/Double%20Linked%20List)
 
 * [General Tree](https://github.com/ugurcankok/Data_Structure/tree/master/src/General%20Tree)
