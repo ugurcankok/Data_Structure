@@ -18,4 +18,9 @@ In this repository, you will find my works in ***src*** folder:
 
 * [Queue](https://github.com/ugurcankok/Data_Structure/tree/master/src/Queue)
 
+* [Sort Algorithms](https://github.com/ugurcankok/Data_Structure/tree/master/src/Sort%20Algorithms)
+    * [Bubble Sort](https://github.com/ugurcankok/Data_Structure/tree/master/src/Sort%20Algorithms/Bubble%20Sort)
+    * [Insertion Sort](https://github.com/ugurcankok/Data_Structure/tree/master/src/Sort%20Algorithms/Insertion%20Sort)
+    * [Selection Sort](https://github.com/ugurcankok/Data_Structure/tree/master/src/Sort%20Algorithms/Selection%20Sort)
+
 * [Stack](https://github.com/ugurcankok/Data_Structure/tree/master/src/Stack)
