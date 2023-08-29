@@ -10,6 +10,8 @@ In this repository, you will find my works in ***src*** folder:
 
 * [General Tree](https://github.com/ugurcankok/Data_Structure/tree/master/src/General%20Tree)
 
+* [Graph](https://github.com/ugurcankok/Data_Structure/tree/master/src/Graph)
+
 * [Hash Table](https://github.com/ugurcankok/Data_Structure/tree/master/src/Hash%20Table)
 
 * [Linked List](https://github.com/ugurcankok/Data_Structure/tree/master/src/Linked%20List)
